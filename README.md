@@ -51,8 +51,8 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=agil0606&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=agil0606&theme=dracula" height="150" alt="GitHub Trophy" />
+  <img src="https://streak-stats.demolab.com?user=agil06&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=agil06&theme=dracula" height="150" alt="GitHub Trophy" />
 </div>
 
 ###
