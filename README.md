@@ -1,10 +1,12 @@
-<h1 align="center">Hi there! 👋What's Up?</h1>
-<h2 align="center">Welcome to my profile!</h2>
+<h1 align="center"> Hi! How’s it going? 👋 Welcome to my GitHub!</h1>
 
 ###
 
-<!-- Skill Icons -->
+<!-- Skill Icons with Categories -->
 <div align="center">
+
+  <!-- Frontend Skills -->
+  <h3>🎨 Frontend</h3>
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
@@ -12,47 +14,60 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="TailwindCSS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL" />
+  
+  <hr width="60%" />
+
+  <!-- Backend Skills -->
+  <h3>🔧 Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="Golang" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL" />
+  
+  <hr width="60%" />
+
+  <!-- Tools & General Languages -->
+  <h3>🛠️ Tools & Languages</h3>
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" />
+
 </div>
 
 ###
 
-<!-- Social Media Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/agilyudiswibawa">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28"/>
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="28"/>
-  </a>
-  <a href="https://discord.com/users/agil0606">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28"/>
-  </a>
-  <a href="https://twitch.tv/yourchannel">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="28"/>
-  </a>
-  <a href="https://dev.to/yourusername">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="28"/>
-  </a>
-</p>
+<!-- Social Media Badges with Table Layout -->
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/agilyudiswibawa">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
+      </a>
+    </td>
+    <td>
+      <a href="https://dev.to/yourusername">
+        <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="28" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=agil06&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=agil06&theme=dracula" height="150" alt="GitHub Trophy" />
+
+  <br /> <!-- Spacer 1 baris -->
+
+  <img src="https://github-profile-trophy.vercel.app/?username=agil06&theme=dracula&margin-w=10&margin-h=10" height="150" alt="GitHub Trophy" />
+
+  <br /> <!-- Spacer 1 baris -->
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agil06&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
 ###
