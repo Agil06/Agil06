@@ -133,4 +133,4 @@ Status:  Student, forever learning
 
 <sub><b>LINKS</b></sub>
 
-[LinkedIn](https://www.linkedin.com/in/agilyudiswibawa) · [GitHub](https://github.com/Agil06)
+[LinkedIn](https://www.linkedin.com/in/agilyudiswibawa)
