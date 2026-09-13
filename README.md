@@ -1,19 +1,17 @@
 <h1 align="left">Hello, I'm Agil.</h1>
 
 <p align="left">
-  Computer Science undergraduate at Universitas Diponegoro with a focus on cybersecurity, low-level systems, software engineering, and data/ML.<br/>
-  I like understanding systems from the inside out—then turning that understanding into practical software, embedded systems, and technical experiments.
+  Computer Science undergraduate at Universitas Diponegoro with a focus on cybersecurity, low-level systems, software engineering, and data/ML.
 </p>
 
 <pre>
 [BIODATA]
-Name:    Agil Yudis Wibawa
+Name:    Agil
 Inst:    Universitas Diponegoro
 Major:   Computer Science
 Batch:   2024
-Stack:   Spring Boot, React.js, C, Linux
-Focus:   Cybersecurity, Systems, SWE, Data/ML
-Status:  Student, currently learning
+Focus:   Cybersecurity
+Status:  Student, forever learning
 </pre>
 
 ---
