@@ -40,7 +40,7 @@ Status:  Student, currently learning
 
 <sub>React.js · TypeScript · Next.js · Tailwind CSS · JavaScript · HTML/CSS</sub>
 
-<br/><br/>
+<br/>
 
 <sub><b>BACKEND</b></sub>
 
@@ -52,14 +52,14 @@ Status:  Student, currently learning
 
 <sub>Java · Spring Boot</sub>
 
-<br/><br/>
+<br/>
 
 <sub><b>DATA & ANALYTICS</b></sub>
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/mysql/444748" height="28" alt="MySQL" title="MySQL" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/main/icons/fabric/fabric.svg" height="28" alt="Microsoft Fabric" title="Microsoft Fabric" />
+  <img src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/fabric/fabric.svg" height="28" alt="Microsoft Fabric" title="Microsoft Fabric" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/sap/444748" height="28" alt="SAP Data Analytics" title="SAP Data Analytics" />
   &nbsp;&nbsp;
@@ -70,7 +70,7 @@ Status:  Student, currently learning
 
 <sub>MySQL · Microsoft Fabric · SAP Data Analytics · Kaggle · Jupyter Notebook</sub>
 
-<br/><br/>
+<br/>
 
 <sub><b>EMBEDDED & IOT</b></sub>
 
@@ -84,7 +84,7 @@ Status:  Student, currently learning
 
 <sub>Arduino IDE · C · C++</sub>
 
-<br/><br/>
+<br/>
 
 <sub><b>SECURITY & SYSTEMS</b></sub>
 
@@ -98,7 +98,7 @@ Status:  Student, currently learning
 
 <sub>Kali Linux · Ubuntu / WSL · Ghidra · CTF & reverse engineering</sub>
 
-<br/><br/>
+<br/>
 
 <sub><b>TOOLS & PLATFORMS</b></sub>
 
