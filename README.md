@@ -1,7 +1,7 @@
 <h1 align="left">Hello, I'm Agil.</h1>
 
 <p align="left">
-  Computer Science undergraduate at Universitas Diponegoro with a focus on cybersecurity, low-level systems, software engineering, and data/ML.
+  focusing on cybersecurity, low-level systems, software engineering, and data/ML.
 </p>
 
 <pre>
