@@ -57,13 +57,13 @@ Status:  Student, forever learning
 <p align="left">
   <img src="https://cdn.simpleicons.org/mysql/444748" height="28" alt="MySQL" title="MySQL" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/fabric/fabric.svg" height="28" alt="Microsoft Fabric" title="Microsoft Fabric" />
-  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/sap/444748" height="28" alt="SAP Data Analytics" title="SAP Data Analytics" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/kaggle/444748" height="28" alt="Kaggle" title="Kaggle" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/jupyter/444748" height="28" alt="Jupyter Notebook" title="Jupyter Notebook" />
+  <img src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/fabric/fabric.svg" height="28" alt="Microsoft Fabric" title="Microsoft Fabric" />
+  &nbsp;&nbsp;
 </p>
 
 <sub>MySQL · Microsoft Fabric · SAP Data Analytics · Kaggle · Jupyter Notebook</sub>
