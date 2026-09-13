@@ -99,11 +99,11 @@
 
   <br />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=agil06&theme=dracula&margin-w=10&margin-h=10" height="150" alt="GitHub Trophy" />
+  <img src="https://github-trophies.vercel.app/?username=agil06&theme=dracula&margin-w=10&margin-h=10" height="150" alt="GitHub Trophy" />
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agil06&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=agil06&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
 ###
