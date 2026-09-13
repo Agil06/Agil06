@@ -1,7 +1,7 @@
 <h1 align="left">Hello, I'm Agil.</h1>
 
 <p align="left">
-  focusing on cybersecurity, low-level systems, software engineering, and data/ML.
+  focusing on low-level systems, swe, and data/ML.
 </p>
 
 <pre>
