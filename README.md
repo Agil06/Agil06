@@ -130,7 +130,3 @@ Status:  Student, forever learning
 </p>
 
 ---
-
-<sub><b>LINKS</b></sub>
-
-[LinkedIn](https://www.linkedin.com/in/agilyudiswibawa)
