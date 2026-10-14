@@ -1,12 +1,10 @@
-<h1 align="left">Hello, I'm Agil.</h1>
+<h1 align="left">hi, i'm agil</h1>
 
 <p align="left">
-  focusing on low-level systems, swe, and data/ML.
+  interested in & currently learning cybsec, ui/ux, systems and data.
 </p>
 
 <pre>
-[BIODATA]
-Name:    Agil
 Inst:    Universitas Diponegoro
 Major:   Computer Science
 Batch:   2024
@@ -14,9 +12,9 @@ Focus:   Cybersecurity
 Status:  Student, forever learning
 </pre>
 
----
+<!-- --- -->
 
-## CAPABILITIES
+## Tools
 
 <sub><b>FRONTEND</b></sub>
 
@@ -36,7 +34,7 @@ Status:  Student, forever learning
   <img src="https://cdn.simpleicons.org/css/444748" height="28" alt="CSS" title="CSS" />
 </p>
 
-<sub>React.js · TypeScript · Next.js · Tailwind CSS · JavaScript · HTML/CSS</sub>
+<!-- <sub>React.js · TypeScript · Next.js · Tailwind CSS · JavaScript · HTML/CSS</sub> -->
 
 <br/>
 
@@ -48,7 +46,7 @@ Status:  Student, forever learning
   <img src="https://cdn.simpleicons.org/springboot/444748" height="28" alt="Spring Boot" title="Spring Boot" />
 </p>
 
-<sub>Java · Spring Boot</sub>
+<!-- <sub>Java · Spring Boot</sub> -->
 
 <br/>
 
@@ -62,11 +60,12 @@ Status:  Student, forever learning
   <img src="https://cdn.simpleicons.org/kaggle/444748" height="28" alt="Kaggle" title="Kaggle" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/jupyter/444748" height="28" alt="Jupyter Notebook" title="Jupyter Notebook" />
-  <img src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/fabric/fabric.svg" height="28" alt="Microsoft Fabric" title="Microsoft Fabric" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Agil06/Agil06/main/icons/fabric.svg" height="28" alt="Microsoft Fabric" title="Microsoft Fabric" />
   &nbsp;&nbsp;
 </p>
 
-<sub>MySQL · Microsoft Fabric · SAP Data Analytics · Kaggle · Jupyter Notebook</sub>
+<!-- <sub>MySQL · Microsoft Fabric · SAP Data Analytics · Kaggle · Jupyter Notebook</sub> -->
 
 <br/>
 
@@ -80,36 +79,32 @@ Status:  Student, forever learning
   <img src="https://cdn.simpleicons.org/cplusplus/444748" height="28" alt="C++" title="C++" />
 </p>
 
-<sub>Arduino IDE · C · C++</sub>
+<!-- <sub>Arduino IDE · C · C++</sub> -->
 
 <br/>
 
-<sub><b>SECURITY & SYSTEMS</b></sub>
+<sub><b>SECURITY </b></sub>
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/kalilinux/444748" height="28" alt="Kali Linux" title="Kali Linux" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ubuntu/444748" height="28" alt="Ubuntu / WSL" title="Ubuntu / WSL" />
+  <img src="https://cdn.simpleicons.org/ubuntu/444748" height="28" alt="Ubuntu / WSL" title="WSL" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GHIDRA-444748?style=flat-square&logoColor=white" height="28" alt="Ghidra" title="Ghidra" />
 </p>
 
-<sub>Kali Linux · Ubuntu / WSL · Ghidra · CTF & reverse engineering</sub>
+<!-- <sub>Kali Linux · Ubuntu / WSL · Ghidra · CTF & reverse engineering</sub> -->
 
 <br/>
 
-<sub><b>TOOLS & PLATFORMS</b></sub>
+<sub><b>PLATFORMS</b></sub>
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/git/444748" height="28" alt="Git" title="Git" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/444748" height="28" alt="GitHub" title="GitHub" />
-  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/figma/444748" height="28" alt="Figma" title="Figma" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/diagramsdotnet/444748" height="28" alt="draw.io" title="draw.io" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/444748" height="28" alt="Python" title="Python" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cisco/444748" height="28" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" />
   &nbsp;&nbsp;
@@ -118,7 +113,7 @@ Status:  Student, forever learning
   <img src="https://cdn.simpleicons.org/latex/444748" height="28" alt="LaTeX" title="LaTeX" />
 </p>
 
-<sub>Git/GitHub · Figma · draw.io · Python · MATLAB · Cisco Packet Tracer · LeetCode · LaTeX</sub>
+<!-- <sub>Git/GitHub · Figma · draw.io · Python · MATLAB · Cisco Packet Tracer · LeetCode · LaTeX</sub> -->
 
 ---
 
